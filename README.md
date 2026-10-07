@@ -35,4 +35,4 @@ Worked on software development, testing, debugging and UI/UX across multiple pro
 
 ### 📫 Connect With Me
 
-- [LinkedIn](https://www.linkedin.com/in/thoufeeq-basha-maa-basha-sharmila-banu-099126343/)
+[LinkedIn](https://www.linkedin.com/in/thoufeeq-basha-maa-basha-sharmila-banu-099126343/)
